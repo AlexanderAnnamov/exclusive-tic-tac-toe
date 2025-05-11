@@ -2,7 +2,6 @@ import { createRoot } from 'react-dom/client'
 import { GamePage } from './pages/GamePage'
 import { Providers } from './app/providers'
 
-import 'modern-css-reset'
 import 'normalize.css'
 import './index.css'
 
